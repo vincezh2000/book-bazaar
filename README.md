@@ -12,7 +12,7 @@
 
 <div align="center">
    <a href="https://www.youtube.com/watch?v=6LnoqbcFH84">
-   <img src="https://github.com/vincezh2000/Navvy-Man/blob/main/Navvy_logo.jpg" width="600" />
+<!--    <img src="https://github.com/vincezh2000/Navvy-Man/blob/main/Navvy_logo.jpg" width="600" /> -->
    </a>
 </div>
 
